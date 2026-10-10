@@ -1,10 +1,10 @@
-# 🦯 Smart Blind Stick — Arduino Nano
+#  Smart Blind Stick — Arduino Nano
 
 Obstacle detection aid for visually impaired users using Arduino Nano and an HC-SR04 ultrasonic sensor.
 
 ---
 
-## ⚙️ How It Works
+##  How It Works
 
 - HC-SR04 sensor measures distance to obstacles continuously
 - Obstacle within **50cm** → buzzer activates
@@ -13,7 +13,7 @@ Obstacle detection aid for visually impaired users using Arduino Nano and an HC-
 
 ---
 
-## 🧰 Components
+##  Components
 
 | Component | Purpose |
 |-----------|---------|
@@ -25,7 +25,7 @@ Obstacle detection aid for visually impaired users using Arduino Nano and an HC-
 
 ---
 
-## 🔌 Wiring
+##  Wiring
 
 ```
 HC-SR04 VCC  → 5V
@@ -38,13 +38,13 @@ Motor (+)    → D6
 
 ---
 
-## 💻 Code
+##  Code
 
 See `blind_stick.ino` for the full Arduino sketch.
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Sanjay Kumar G** | B.Tech EEE, VIT Chennai  
 [GitHub](https://github.com/gsanjaykumar26sk-eng)
