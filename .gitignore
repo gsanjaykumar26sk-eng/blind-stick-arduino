@@ -1,0 +1,9 @@
+# Arduino build output
+build/
+*.hex
+*.elf
+*.bin
+
+# Arduino IDE settings and backups
+*.ino.e4*
+*.bak
